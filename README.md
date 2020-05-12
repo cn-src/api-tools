@@ -3,3 +3,8 @@
 [![jitpack](https://jitpack.io/v/cn-src/api-tools.svg)](https://jitpack.io/#cn-src/api-tools)
 
 # Api Tools
+> 将 redoc 和 postwoman 打包成 webjars
+
+* redoc 入口：`/redoc.html`
+* postwoman 入口：`/webjars/postwoman/index.html`
+
