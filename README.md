@@ -6,5 +6,5 @@
 > 将 redoc 和 postwoman 打包成 webjars
 
 * redoc 入口：`/redoc.html`
-* postwoman 入口：`/webjars/postwoman/index.html`
+* postwoman 入口：`/postwoman.html`
 
